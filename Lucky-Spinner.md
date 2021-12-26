@@ -36,7 +36,7 @@ The following outcomes are available: x0 (complete loss), x0.5 (50% loss), x1 (b
 
 The table indicates the likelihood of each outcome.
 
-ROI - Proportion
+[ROI - Proportion]
 - x0 - 30.00%
 - x0.5 - 30.00%
 - x1 - 24.85%
@@ -47,7 +47,6 @@ ROI - Proportion
 - x20 - 0.40%
 - x35 - 0.15%
 - x1 bonus NFT - 1.00%
-- Sum - 100.00%
 
 Accordingly, the expected value of winning is 0.973 ( = 0 x 30% + 0.5 x 30% + … 35 x 0.15% + 1 x 1%), approximately 1.
 
